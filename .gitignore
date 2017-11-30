@@ -1,0 +1,17 @@
+# Java template
+*.class
+
+# Css files
+
+
+# Package Files #
+*.war
+*.ear
+*.iar
+*.jar
+
+# Generated folder
+target/
+src_dataClasses/
+classes/
+
