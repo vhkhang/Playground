@@ -1,0 +1,386 @@
+{  
+   "structureId":631,
+   "structureCode":"Khangtest",
+   "structureDescription":"Einheitsgliederung Nettoer1111",
+   "recordState":"ACTIVE",
+   "lines":[  
+      {  
+         "lineId":144909,
+         "lineCode":"5599",
+         "lineDescription":"**  Einkauf Total   ",
+         "lineOrder":5599,
+         "structureId":631,
+         "lineTypeEnum":"NORMAL",
+         "highestLevel":true,
+         "children":[  
+            {  
+               "lineId":144940,
+               "lineCode":"3751",
+               "lineDescription":"*   Liegenschaftsaufwand",
+               "lineOrder":3751,
+               "structureId":631,
+               "lineTypeEnum":"NORMAL",
+               "highestLevel":false,
+               "children":[  
+
+               ],
+               "lineMultilingualismModels":[  
+
+               ],
+               "properties":[  
+
+               ],
+               "costTypes":[  
+                  {  
+                     "companyNumber":1,
+                     "costTypeId":174,
+                     "costTypeCode":"111",
+                     "costTypeDescription":"1",
+                     "stateModel":{  
+                        "recordState":"INACTIVE"
+                     },
+                     "costTypeMultilingualismModels":[  
+
+                     ]
+                  },
+                  {  
+                     "companyNumber":1,
+                     "costTypeId":207,
+                     "costTypeCode":"11111",
+                     "costTypeDescription":"222333",
+                     "stateModel":{  
+                        "recordState":"ACTIVE"
+                     },
+                     "costTypeMultilingualismModels":[  
+
+                     ]
+                  },
+                  {  
+                     "companyNumber":1,
+                     "costTypeId":208,
+                     "costTypeCode":"12",
+                     "costTypeDescription":"12",
+                     "stateModel":{  
+                        "recordState":"ACTIVE"
+                     },
+                     "costTypeMultilingualismModels":[  
+
+                     ]
+                  },
+                  {  
+                     "companyNumber":1,
+                     "costTypeId":209,
+                     "costTypeCode":"1212",
+                     "costTypeDescription":"123",
+                     "stateModel":{  
+                        "recordState":"ACTIVE"
+                     },
+                     "costTypeMultilingualismModels":[  
+
+                     ]
+                  },
+                  {  
+                     "companyNumber":1,
+                     "costTypeId":213,
+                     "costTypeCode":"1232",
+                     "costTypeDescription":"2233223",
+                     "stateModel":{  
+                        "recordState":"INACTIVE"
+                     },
+                     "costTypeMultilingualismModels":[  
+
+                     ]
+                  },
+                  {  
+                     "companyNumber":1,
+                     "costTypeId":183,
+                     "costTypeCode":"123",
+                     "costTypeDescription":"321",
+                     "stateModel":{  
+                        "recordState":"NEUTRAL",
+                        "validFrom":"2017-10-27"
+                     },
+                     "costTypeMultilingualismModels":[  
+
+                     ]
+                  },
+                  {  
+                     "companyNumber":1,
+                     "costTypeId":217,
+                     "costTypeCode":"1232323",
+                     "costTypeDescription":"1232",
+                     "stateModel":{  
+                        "recordState":"INACTIVE"
+                     },
+                     "costTypeMultilingualismModels":[  
+
+                     ]
+                  },
+                  {  
+                     "companyNumber":1,
+                     "costTypeId":220,
+                     "costTypeCode":"12312334",
+                     "costTypeDescription":"213123",
+                     "stateModel":{  
+                        "recordState":"INACTIVE"
+                     },
+                     "costTypeMultilingualismModels":[  
+
+                     ]
+                  },
+                  {  
+                     "companyNumber":1,
+                     "costTypeId":221,
+                     "costTypeCode":"1234124",
+                     "costTypeDescription":"123123",
+                     "stateModel":{  
+                        "recordState":"INACTIVE"
+                     },
+                     "costTypeMultilingualismModels":[  
+
+                     ]
+                  },
+                  {  
+                     "companyNumber":1,
+                     "costTypeId":3,
+                     "costTypeCode":"Grundausbi",
+                     "costTypeDescription":"Normalmitglieder Grundausbildung",
+                     "stateModel":{  
+                        "recordState":"INACTIVE"
+                     },
+                     "costTypeMultilingualismModels":[  
+
+                     ]
+                  },
+                  {  
+                     "companyNumber":1,
+                     "costTypeId":165,
+                     "costTypeCode":"1",
+                     "costTypeDescription":"1",
+                     "stateModel":{  
+                        "recordState":"NEUTRAL",
+                        "validFrom":"2016-04-21"
+                     },
+                     "costTypeMultilingualismModels":[  
+
+                     ]
+                  },
+                  {  
+                     "companyNumber":1,
+                     "costTypeId":198,
+                     "costTypeCode":"1232114",
+                     "costTypeDescription":"123123123",
+                     "stateModel":{  
+                        "recordState":"INACTIVE"
+                     },
+                     "costTypeMultilingualismModels":[  
+
+                     ]
+                  },
+                  {  
+                     "companyNumber":1,
+                     "costTypeId":233,
+                     "costTypeCode":"123 abc",
+                     "costTypeDescription":"fdsa",
+                     "stateModel":{  
+                        "recordState":"ACTIVE"
+                     },
+                     "costTypeMultilingualismModels":[  
+
+                     ]
+                  }
+               ]
+            }
+         ],
+         "lineMultilingualismModels":[  
+
+         ],
+         "properties":[  
+
+         ],
+         "costTypes":[  
+
+         ]
+      },
+      {  
+         "lineId":144910,
+         "lineCode":"5699",
+         "lineDescription":"**  Einstandspreis  ",
+         "lineOrder":5699,
+         "structureId":631,
+         "lineTypeEnum":"NORMAL",
+         "highestLevel":true,
+         "children":[  
+
+         ],
+         "lineMultilingualismModels":[  
+
+         ],
+         "properties":[  
+
+         ],
+         "costTypes":[  
+
+         ]
+      },
+      {  
+         "lineId":144932,
+         "lineCode":"9920",
+         "lineDescription":"Deckungsbeitrag III ",
+         "lineOrder":9920,
+         "structureId":631,
+         "lineTypeEnum":"NORMAL",
+         "highestLevel":true,
+         "children":[  
+
+         ],
+         "lineMultilingualismModels":[  
+
+         ],
+         "properties":[  
+
+         ],
+         "costTypes":[  
+
+         ]
+      },
+      {  
+         "lineId":144933,
+         "lineCode":"9925",
+         "lineDescription":"Deckungsbeitrag IV  ",
+         "lineOrder":9925,
+         "structureId":631,
+         "lineTypeEnum":"NORMAL",
+         "highestLevel":true,
+         "children":[  
+
+         ],
+         "lineMultilingualismModels":[  
+
+         ],
+         "properties":[  
+
+         ],
+         "costTypes":[  
+
+         ]
+      },
+      {  
+         "lineId":144934,
+         "lineCode":"9930",
+         "lineDescription":"Deckungsbeitrag V   ",
+         "lineOrder":9930,
+         "structureId":631,
+         "lineTypeEnum":"NORMAL",
+         "highestLevel":true,
+         "children":[  
+
+         ],
+         "lineMultilingualismModels":[  
+
+         ],
+         "properties":[  
+
+         ],
+         "costTypes":[  
+
+         ]
+      },
+      {  
+         "lineId":144935,
+         "lineCode":"9935",
+         "lineDescription":"Deckungsbeitrag VI  ",
+         "lineOrder":9935,
+         "structureId":631,
+         "lineTypeEnum":"NORMAL",
+         "highestLevel":true,
+         "children":[  
+
+         ],
+         "lineMultilingualismModels":[  
+
+         ],
+         "properties":[  
+
+         ],
+         "costTypes":[  
+
+         ]
+      },
+      {  
+         "lineId":144936,
+         "lineCode":"9950",
+         "lineDescription":"Betriebsergebnis/EBT",
+         "lineOrder":9950,
+         "structureId":631,
+         "lineTypeEnum":"NORMAL",
+         "highestLevel":true,
+         "children":[  
+
+         ],
+         "lineMultilingualismModels":[  
+
+         ],
+         "properties":[  
+
+         ],
+         "costTypes":[  
+
+         ]
+      },
+      {  
+         "lineId":145134,
+         "lineCode":"9940",
+         "lineDescription":"EBITDA  ",
+         "lineOrder":9940,
+         "structureId":631,
+         "lineTypeEnum":"NORMAL",
+         "highestLevel":true,
+         "children":[  
+
+         ],
+         "lineMultilingualismModels":[  
+
+         ],
+         "properties":[  
+
+         ],
+         "costTypes":[  
+
+         ]
+      },
+      {  
+         "lineId":145135,
+         "lineCode":"9945",
+         "lineDescription":"EBIT",
+         "lineOrder":9945,
+         "structureId":631,
+         "lineTypeEnum":"NORMAL",
+         "highestLevel":true,
+         "children":[  
+
+         ],
+         "lineMultilingualismModels":[  
+
+         ],
+         "properties":[  
+
+         ],
+         "costTypes":[  
+
+         ]
+      }
+   ],
+   "structureMultilingualismModels":[  
+      {  
+         "structureId":631,
+         "id":29,
+         "languageCode":"DE",
+         "field":"structureDescription",
+         "translate":"Einheitsgliederung Nettoerl\u0027\u0027s DE",
+         "user":"vhkhang"
+      }
+   ],
+   "companyNo":1,
+   "user":"vhkhang"
+}
